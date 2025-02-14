@@ -30,7 +30,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/StegoAES.git
+git clone https://github.com/trinetra110/StegoAES.git
 cd StegoAES
 ```
 
